@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**UlisseTucci/UlisseTucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--UlisseTucci/UlisseTucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, I'm Ulisse Tucci!
+
+👩🏻‍🎓 Studied [Computer Science] (https://informatica.unical.it/) at the University of Calabria, Italia.<br/>
+💭 Currently learnig about Web Developement.<br/>
+
+<!-- GitHub stats from -->
